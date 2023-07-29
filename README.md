@@ -1,18 +1,33 @@
-## Getting Started
+# Conversor Allura por R.Ch
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Un programa conversor de monedas o unidades de medida. Diseñado como desafío realizado por el programa Allura Oracel ONE.
 
-## Folder Structure
+- Programa que convierte moneda local (Sol Peruano) a Dólares amercanos, Euros, Libras esterlinas, Yen japones y Won Surcoreano. (ver. 1)
 
-The workspace contains two folders by default, where:
+- Programa que convierte medidas de temperatura (En Construcción)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Paso 1 : Ejecutar el programa.
+- Paso 2 : Escoger el tipo de conversor.
+- Paso 3 : Ingresar el monto a convertir.
+- Paso 4 : Escoger el cambio a realizar.
+- Paso 5 : Se mostrara el resultado y se preguntará si se desear seguir utilizando el programa.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Construido con 🛠️
 
-## Dependency Management
+- Java
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autores ✒️
+
+- **Ricardo Chang** - _Trabajo Inicial_ - [Rchang](hhttps://github.com/Rchangch)
+
+## Expresiones de Gratitud 🎁
+
+- Comenta a otros sobre este proyecto, Por favor. 📢
+- Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+- Da las gracias públicamente 🤓.
+
+---
+
+⌨️ con ❤️ por [Rchang](hhttps://github.com/Rchangch) 😊
