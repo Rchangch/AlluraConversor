@@ -58,16 +58,22 @@ public class Temperatura {
             switch(opcion){
                 case "De Centigrados a Fahrenheit" :
                     this.resultado = (this.temperatura * (9.0/5.0)) + 32.0;
+                    break;
                 case "De Centigrados a Kelvin":
                     this.resultado = this.temperatura + 273.15;
+                    break;
                 case "De Fahrenheit a Centigrados" :
                     this.resultado = (this.temperatura - 32) * (5.0/9.0);
+                    break;
                 case "De Fahrenheit a Kelvin" :
                     this.resultado = ((this.temperatura - 32) * (5.0/9.0)) + 273.15;
+                    break;
                 case "De Kelvin a Fahrenheit" :
                     this.resultado = ((this.temperatura - 273.15) * (9.0/5.0)) + 32;
+                    break;
                 case "De Kelvin a Centigrados" :
                     this.resultado = this.temperatura - 273.15;
+                    break;
             }
 
             return String.format("%,.2f",this.resultado) + " " + simbolos[Arrays.asList(listaDeCambios).indexOf(opcion)] + " Grados" + opcion.substring(opcion.lastIndexOf("a ") + 1);
