@@ -4,7 +4,7 @@ Un programa conversor de monedas o unidades de medida. Diseñado como desafío r
 
 - Programa que convierte moneda local (Sol Peruano) a Dólares amercanos, Euros, Libras esterlinas, Yen japones y Won Surcoreano. (ver. 1)
 
-- Programa que convierte medidas de temperatura (En Construcción)
+- Programa que convierte medidas de temperatura
 
 ## Uso
 
